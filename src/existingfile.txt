@@ -1,4 +1,8 @@
 Existing text in file
 
+<<<<<<< HEAD
 Some additional text in an existing file
 Some more new text in an existing file
+=======
+Uh-oh!
+>>>>>>> d0332e4b49eb5907e8b4ea7ac3c6e9c986699ae7
